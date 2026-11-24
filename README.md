@@ -20,16 +20,47 @@ No momento, meu foco é juntar **desenvolvimento web moderno (React/Next.js)** c
 
 ## 📌 Projetos em destaque
 
-- **CT Capixaba** – Plataforma de treinos e gestão de alunos  
-  App web em desenvolvimento com **Next.js 14, TypeScript, Prisma e NextAuth**, com papéis (coach, aluno, admin) e área restrita.  
-  🔗 Repositório: https://github.com/Phaaek013/ct-capixaba  
+**Em produção, para clientes**
 
-- **LP Verão Day Use – Hotel Serra do Gandarela**  
-  Landing Page real em produção para campanha de **Verão – Day Use**, focada em aumentar reservas sem confusão com hospedagem.  
-  🔗 Repositório: https://github.com/Phaaek013/lp-verao-day-use  
-  🌐 Ao vivo: https://hotelserradogandarela.com.br/verao-day-use/  
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://hotelserradogandarela.com.br/verao-day-use/"><img src="https://raw.githubusercontent.com/Phaaek013/lp-verao-day-use/main/media/capa.png" alt="Landing page Verão Day Use do Hotel Serra do Gandarela"></a>
+<br><b>Verão Day Use · Hotel Serra do Gandarela</b>
+<br>Landing page da campanha de verão, feita para tirar a confusão entre Day Use e hospedagem. React, TypeScript, Tailwind.
+<br><a href="https://hotelserradogandarela.com.br/verao-day-use/">Ver no ar</a> · <a href="https://github.com/Phaaek013/lp-verao-day-use">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://catalogo-agendamento.vercel.app"><img src="https://raw.githubusercontent.com/Phaaek013/catalogo.agendamento/main/media/capa.png" alt="Catálogo de prestadores credenciados do CISLAGOS"></a>
+<br><b>Catálogo de Prestadores · CISLAGOS</b>
+<br>Ferramenta da equipe de agendamento do consórcio de saúde: 74 prestadores, 5.571 procedimentos com valor e preparos de exame para imprimir. JavaScript puro.
+<br><a href="https://catalogo-agendamento.vercel.app">Ver no ar</a> · <a href="https://github.com/Phaaek013/catalogo.agendamento">Código</a>
+</td>
+</tr>
+</table>
 
-(Esses são os projetos que eu recomendo olhar primeiro se você quiser ver código e entregas reais.)
+**Projetos conceituais**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://phaaek013.github.io/clima-certo/"><img src="https://raw.githubusercontent.com/Phaaek013/clima-certo/main/og.png" alt="Clima Certo: ar-condicionado desmontado peça por peça com o scroll"></a>
+<br><b>Clima Certo</b>
+<br>O scroll desmonta um ar-condicionado peça por peça, e cada peça explica um serviço. SVG, CSS 3D e scroll animado.
+<br><a href="https://phaaek013.github.io/clima-certo/">Ver no ar</a> · <a href="https://github.com/Phaaek013/clima-certo">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://phaaek013.github.io/tattoo-studio/"><img src="https://raw.githubusercontent.com/Phaaek013/tattoo-studio/main/media/capa.png" alt="Pk'House Studio: estúdio de tatuagem como banca de cordel"></a>
+<br><b>Pk'House Studio</b>
+<br>Estúdio de tatuagem apresentado como uma banca de cordel: cada estilo é uma xilogravura pendurada no varal. React, TypeScript, SVG.
+<br><a href="https://phaaek013.github.io/tattoo-studio/">Ver no ar</a> · <a href="https://github.com/Phaaek013/tattoo-studio">Código</a>
+</td>
+</tr>
+</table>
+
+**Em desenvolvimento**
+
+- **CT Capixaba**: plataforma de treinos e gestão de alunos com Next.js 14, TypeScript, Prisma e NextAuth, com papéis de coach, aluno e admin. [Código](https://github.com/Phaaek013/ct-capixaba)
 
 ---
 
@@ -39,7 +70,7 @@ No momento, meu foco é juntar **desenvolvimento web moderno (React/Next.js)** c
 
 - React · Next.js 14  
 - TypeScript · JavaScript  
-- HTML5 · CSS3  
+- HTML5 · CSS3 · SVG  
 - Tailwind CSS
 
 **Back-end / Dados**
